@@ -1,13 +1,13 @@
-## Official SAIR Hate Club Website
+# Official SAIR Hate Club Website
 
 Welcome to the official repository for the **SAIR Hate Club Website**. This guide will walk you through setting up and running the website locally on your machine.
 
-# Prerequisites
+## Prerequisites
 Before setting up the project, ensure that you have the following installed on your machine:
 
 - **Node.js**: You will need Node.js and npm (Node Package Manager) installed. You can download and install it from the [official Node.js website](https://nodejs.org/).
 
-# Setup Instructions
+## Setup Instructions
 Follow these steps to set up and run the website locally:
 
 ### 1. Install `http-server`
@@ -36,5 +36,5 @@ Once the server has started, you should now be able to view the website running 
 
 For further contributions or updates to the project, please refer to the Contributing Guidelines in the CONTRIBUTING.md file (if applicable).
 
-License
+## License
 This project is licensed under the MIT License.
